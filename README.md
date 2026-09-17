@@ -35,3 +35,10 @@ This project provides deep analytical insights into employee performance, compen
 - `مشروع 1.pbix`: The main Power BI dashboard file.
 - `Data/`: Contains the underlying Excel dataset used for the reports.
 - `Images/`: Contains preview screenshots of the dashboard.
+
+---
+
+## 🚀 How to Use
+1. Clone or download this repository to your local machine.
+2. Open the `مشروع 1.pbix` file using **Power BI Desktop**.
+3. If prompted, update the data source path to point to the Excel file inside your local `Data/` folder.
